@@ -22,7 +22,7 @@
   - seaborn
 
 ## Key findings : 
-  -Most patients survived 5 years or longer.
+  - Most patients survived 5 years or longer.
   - The dataset contains more surviving patients than non-surviving patients.
   - Age shows variation among patients.
   - Most patients had fewer positive lymph nodes.
