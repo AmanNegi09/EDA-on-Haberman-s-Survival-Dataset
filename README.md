@@ -1,6 +1,6 @@
 # EDA on Haberman's Survival Dataset
 
-## about :
+## About :
   This project focuses on data cleaning, data preprocessing, data organization, and exploratory data analysis of the Haberman's Survival dataset. I used different statistical techniques and graphs to analyze the features, understand their distributions, and identify relationships and patterns in the data.
   
    This project is used to analyze whether a patient survived for at least 5 years after surgery (Survival_status) based on other factors, such as the patient's age, year of operation, and number of positive lymph nodes detected. In this project, these features are explored using data cleaning, preprocessing, statistical analysis, and EDA with different graphs and visualizations, without training a machine learning model.
