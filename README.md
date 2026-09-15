@@ -8,12 +8,15 @@
 ## Dataset : Haberman's Survival data 
   It contains records of patients who underwent surgery for breast cancer at the University of Chicago's Billings Hospital, with the study covering 1958–1970. It has 306 observations and 3 input features, plus 1 target variable, with no missing values.
   
-  This dataset contains four features/columns :
-  Feature	                                 Meaning
-  Age	                           Age of the patient at the time of operation
-  Year	                         Year of operation, represented as year - 1900
-  Positive_lymph_nodes	         Number of positive axillary lymph nodes detected
-  Survival_status	               Whether the patient survived at least 5 years after surgery
+
+**This dataset contains four features/columns:**
+
+| Feature | Meaning |
+|---|---|
+| Age | Age of the patient at the time of operation |
+| Year | Year of operation, represented as year - 1900 |
+| Positive_lymph_nodes | Number of positive axillary lymph nodes detected |
+| Survival_status | Whether the patient survived at least 5 years after surgery |
 
 ## Tools used : 
   - python
